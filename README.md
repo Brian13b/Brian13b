@@ -13,7 +13,7 @@ Soy un desarrollador backend especializado en Java y C#. Me apasiona crear siste
 - Otros: Git, TDD, CI/CD
 
 ## Mis proyectos destacados:
-- [Proyecto 1](https://github.com/Brian13b/tasks-api.git): Descripción breve del proyecto.
+- [Proyecto 1](https://github.com/Brian13b/tasks-api.git): Backend de una aplicación de lista de tareas (ToDo), con funcionalidades para registrar usuarios, autenticación JWT y manejo de tareas.
 - [Proyecto 2](link): Descripción breve del proyecto.
 
 ## Contáctame:
