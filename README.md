@@ -13,8 +13,8 @@ Soy un desarrollador backend especializado en Java y C#. Me apasiona crear siste
 - Otros: Git, TDD, CI/CD
 
 ## Mis proyectos destacados:
-- [Proyecto 1](https://github.com/Brian13b/tasks-api.git): Backend de una aplicación de lista de tareas (ToDo), con funcionalidades para registrar usuarios, autenticación JWT y manejo de tareas.
-- [Proyecto 2](https://github.com/Brian13b/InventarioAPI.git): Descripción breve del proyecto.
+- [Task API](https://github.com/Brian13b/tasks-api.git): Backend de una aplicación de lista de tareas (ToDo), con funcionalidades para registrar usuarios, autenticación JWT y manejo de tareas.
+- [Inventario API](https://github.com/Brian13b/InventarioAPI.git): API RESTful para gestionar productos, permitiendo realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos.
 
 ## Contáctame:
 - **LinkedIn**: Brian Battauz (linkedin.com/in/brian-battauz-75691a217/)
