@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/57803a38-59ea-4e3e-9047-fd703c9d8720)
+
 # ¡Hola! Soy Brian Battauz 👋
 
 ## Sobre mí
