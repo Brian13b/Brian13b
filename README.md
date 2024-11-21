@@ -17,7 +17,7 @@ Soy un desarrollador backend especializado en Java y C#. Me apasiona crear siste
 - [Inventario API](https://github.com/Brian13b/InventarioAPI.git): API RESTful para gestionar productos, permitiendo realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos.
 
 ## Contáctame:
-- **LinkedIn**: Brian Battauz (linkedin.com/in/brian-battauz-75691a217/)
+- **LinkedIn**: [Brian Battauz] (linkedin.com/in/brian-battauz-75691a217/)
 - **Email**: brian.nbattauz@gmail.com
 
 ## Siempre en constante aprendizaje 💡
