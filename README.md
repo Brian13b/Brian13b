@@ -10,7 +10,7 @@ Soy un desarrollador backend especializado en Java y C#. Me apasiona crear siste
 - Frameworks: Spring Boot, .NET
 - Bases de datos: MySQL, PostgreSQL, SQL Server
 - Herramientas: Docker
-- Otros: Git, TDD, CI/CD
+- Otros: Git
 
 ## Mis proyectos destacados:
 - [API Sistema de Gestion de Clientes y Pedidos](https://github.com/Brian13b/SistemaGestionClientesPedidosAPI): Este proyecto consiste en el desarrollo de una API RESTful para un sistema de gestión de clientes y pedidos, implementado en C# con .NET.
