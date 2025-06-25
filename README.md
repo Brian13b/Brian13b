@@ -52,28 +52,6 @@ _ToDo App con Spring Boot + JWT_
 
 ---
 
-## 🚀 Mi Roadmap de Aprendizaje  
-
-```mermaid
-graph LR
-    %% --- Lo que YA DOMINO ---
-    A[Java] --> B[Spring Boot]
-    C[C#] --> D[.NET]
-    E[Python] --> F[FastAPI]
-    G[SQL] --> H[MySQL/PostgreSQL]
-    
-    %% --- En APRENDIZAJE ACTUAL ---
-    B --> I[Spring Cloud]
-    F --> J[Microservicios]
-    K[React] --> L[TypeScript]
-    
-    %% --- PRÓXIMOS OBJETIVOS ---
-    I --> M[Arquitecturas Cloud]
-    J --> N[Docker Avanzado]
-    L --> O[Next.js]
-```
----
-
 ## 📫 ¡Conectemos!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-battauz-75691a217/)
