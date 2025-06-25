@@ -56,13 +56,21 @@ _ToDo App con Spring Boot + JWT_
 
 ```mermaid
 graph LR
-    A[Backend Master] --> B[Spring/.NET Expert]
-    A --> C[FastAPI/Python]
-    B --> D[Arquitecturas Cloud]
-    C --> E[Microservicios]
-    D --> F[Certificaciones AWS/Azure]
-    G[Frontend Basics] --> H[React Profesional]
-    H --> I[TypeScript]
+    %% --- Lo que YA DOMINO ---
+    A[Java] --> B[Spring Boot]
+    C[C#] --> D[.NET]
+    E[Python] --> F[FastAPI]
+    G[SQL] --> H[MySQL/PostgreSQL]
+    
+    %% --- En APRENDIZAJE ACTUAL ---
+    B --> I[Spring Cloud]
+    F --> J[Microservicios]
+    K[React] --> L[TypeScript]
+    
+    %% --- PRÓXIMOS OBJETIVOS ---
+    I --> M[Arquitecturas Cloud]
+    J --> N[Docker Avanzado]
+    L --> O[Next.js]
 ```
 ---
 
