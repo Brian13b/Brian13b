@@ -1,4 +1,4 @@
-![image](https://github.com/Brian13b/Brian13b/blob/main/header.png)
+![image](https://github.com/Brian13b/Brian13b/blob/main/image.jpg)
 
 # ¡Hola Mundo! 👋 Soy Brian Battauz 🚀
 
