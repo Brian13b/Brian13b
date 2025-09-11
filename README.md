@@ -1,8 +1,8 @@
-
 # ¡Hola Mundo! 👋 Soy Brian Battauz 🚀
 
 ## 👨‍💻 Sobre mí  
-Apasionado **Backend Developer** con foco en Python, Java y C#, ahora expandiendo mis horizontes al mundo Full Stack.
+Soy un **Backend Developer** apasionado con foco en **Python, Java y C#**, actualmente expandiendo mis horizontes hacia el mundo **Full Stack**.  
+Me motiva crear soluciones escalables, limpias y con impacto real.  
 
 ---
 
@@ -20,13 +20,15 @@ Apasionado **Backend Developer** con foco en Python, Java y C#, ahora expandiend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗃️ Bases de Datos SQL
+### 🗃️ Bases de Datos  
+**SQL**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
-### 🗃️ Bases de Datos NoSQL
+**NoSQL**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ DevOps & Otros  
@@ -39,17 +41,36 @@ Apasionado **Backend Developer** con foco en Python, Java y C#, ahora expandiend
 
 ## 🏆 Proyectos Destacados  
 
+### 🚛 [Sistema Logístico - Plataforma Integral](https://github.com/Brian13b/SistemaLogistico)  
+Plataforma robusta de **microservicios** diseñada para la gestión completa de flotas, viajes, facturación y rastreo en tiempo real.  
+🔹 Arquitectura basada en **Microservicios**  
+🔹 **PostgreSQL** + **FastAPI**  
+🔹 Incluye autenticación, notificaciones y dashboards de seguimiento  
+
+---
+
+### 🏀 [Quico Basquet](https://github.com/Brian13b/QuicoBasquetProject)  
+Aplicación **Fullstack** para reservas de canchas deportivas con un calendario interactivo y gestión de usuarios.  
+🔹 **FastAPI** (backend) + **React** (frontend)  
+🔹 **PostgreSQL** + **SQLAlchemy**  
+🔹 Autenticación con Firebase, despliegue en **Vercel**  
+
+**🔗 Deploy:** [quicobasquet.vercel.app](https://quicobasquet.vercel.app/)  
+
+---
+
+### 🌍 [Charity Landing Page](https://github.com/Brian13b/charity-landing-page)  
+Landing page moderna y responsive para una organización sin fines de lucro, enfocada en promover donaciones y voluntariado.  
+🔹 Desarrollada con **React + TailwindCSS**  
+🔹 Diseño optimizado para **UI/UX**
+
+---
+
 ### 🛒 [API Gestión de Clientes/Pedidos](https://github.com/Brian13b/SistemaGestionClientesPedidosAPI)  
-_API REST en C#/.NET con arquitectura en capas_  
-✔️ Entity Framework ✔️ Swagger ✔️ Patrón Repository  
-
-### 🎾 [ReservAPP](https://github.com/Brian13b/ReservAPP-frontend)  
-_Sistema fullstack (FastAPI + React) para reservas de pádel_  
-🔥 JWT Auth 🔥 PostgreSQL 🔥 SQLAlchemy  
-
-### ✅ [Task API](https://github.com/Brian13b/tasks-api.git)  
-_ToDo App con Spring Boot + JWT_  
-🔐 Spring Security 🧩 DTO Pattern 📦 MySQL  
+_API REST_ en **C#/.NET** con arquitectura en capas para la gestión de clientes y pedidos.  
+🔹 Implementación con **Entity Framework**  
+🔹 Documentación con **Swagger**  
+🔹 Patrón **Repository** para separación de responsabilidades  
 
 ---
 
