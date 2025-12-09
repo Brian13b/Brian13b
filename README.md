@@ -103,7 +103,9 @@ Desarrollo de una interfaz moderna y responsiva para una organización sin fines
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+<div align="center">
+  <h3>📊 Mis Estadísticas en GitHub</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brian13b" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brian13b" height="150" alt="languages graph" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brian13b&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian13b&layout=compact&theme=tokyonight&hide_border=true)
