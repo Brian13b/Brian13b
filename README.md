@@ -105,5 +105,5 @@ Desarrollo de una interfaz moderna y responsiva para una organización sin fines
 
 ### 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brian13b&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brian13b&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian13b&layout=compact&theme=tokyonight&hide_border=true)
