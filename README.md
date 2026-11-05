@@ -28,7 +28,7 @@ Mi objetivo es crear impacto real mediante soluciones tecnológicas robustas, ya
 ---
 
 ## 💼 Emprendimiento: GB Soluciones Digitales
-Actualmente soy cofundador y desarrollador en **[GB Soluciones Digitales](https://gbsolucionesdigitales.vercel.app/)**, una agencia de software donde transformamos las necesidades de negocios locales en herramientas digitales eficientes. Nos especializamos en el desarrollo de aplicaciones web a medida, arquitecturas SaaS, Progressive Web Apps (PWA) con capacidades offline-first e integraciones de APIs.
+Actualmente soy cofundador y desarrollador en **[GB Soluciones Digitales](https://gbsolucionesdigitales.vercel.app/)**, una agencia de software donde transformamos las necesidades de negocios locales en herramientas digitales eficientes. Nos especializamos en el desarrollo de aplicaciones a medida, arquitecturas SaaS, Progressive Web Apps (PWA) con capacidades offline-first e integraciones de APIs.
 
 ---
 
@@ -58,14 +58,6 @@ Actualmente soy cofundador y desarrollador en **[GB Soluciones Digitales](https:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌱 Actualmente aprendiendo
-*Explorando nuevas fronteras para potenciar mis aplicaciones:*
-
-- ☁️ **Cloud Architecture:** Despliegue y escalabilidad en AWS/Azure.
-- 🏗️ **Arquitectura de Software:** Patrones avanzados de Microservicios y DDD.
 
 ---
 
