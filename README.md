@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">¡Hola Mundo! 👋 Soy Brian Battauz</h1>
+  <h1 align="center">¡Bienvenidos! 👋 Soy Brian Battauz</h1>
   <h3 align="center">🚀 Backend & Frontend Developer</h3>
 
   <p align="center">
@@ -24,6 +24,11 @@
 Soy un desarrollador apasionado por el código limpio y la arquitectura de software. Aunque mi núcleo fuerte es el **Backend** (Python, Java, C#), poseo la capacidad de moverme con soltura en el **Frontend**, lo que me permite tener una visión holística del desarrollo de software.
 
 Mi objetivo es crear impacto real mediante soluciones tecnológicas robustas, ya sea diseñando una API compleja o maquetando una interfaz intuitiva.
+
+---
+
+## 💼 Emprendimiento: GB Soluciones Digitales
+Actualmente soy cofundador y desarrollador en **[GB Soluciones Digitales](https://gbsolucionesdigitales.vercel.app/)**, una agencia de software donde transformamos las necesidades de negocios locales en herramientas digitales eficientes. Nos especializamos en el desarrollo de aplicaciones web a medida, arquitecturas SaaS, Progressive Web Apps (PWA) con capacidades offline-first e integraciones de APIs.
 
 ---
 
@@ -59,47 +64,51 @@ Mi objetivo es crear impacto real mediante soluciones tecnológicas robustas, ya
 ## 🌱 Actualmente aprendiendo
 *Explorando nuevas fronteras para potenciar mis aplicaciones:*
 
-* ☁️ **Cloud Architecture:** Despliegue y escalabilidad en AWS/Azure.
-* 🏗️ **Arquitectura de Software:** Patrones avanzados de Microservicios y DDD.
+- ☁️ **Cloud Architecture:** Despliegue y escalabilidad en AWS/Azure.
+- 🏗️ **Arquitectura de Software:** Patrones avanzados de Microservicios y DDD.
 
 ---
 
 ## 🏆 Proyectos Destacados
 
+### 💧 [DripGestión - SaaS Multi-tenant](https://github.com/Brian13b/dripgestion_backend)
+> *SaaS | PWA Offline-First | Logística y Rutas*
+
+Plataforma integral diseñada para distribuidoras de agua de mesa. Permite la gestión completa de la logística, manejo de rutas, ventas sin conexión (offline) y promociones para clientes.
+- **Arquitectura:** SaaS Multi-tenant (arquitectura aislada para múltiples clientes).
+- **Backend & Frontend:** FastAPI (Python) + React.
+- **Features:** PWA Offline-first con IndexedDB y Dexie.js para garantizar el funcionamiento ininterrumpido sin internet.
+- **🔗 Frontend Repo:** [dripgestion_frontend](https://github.com/Brian13b/dripgestion_frontend)
+
+### 🏋️‍♂️ [MM Entrenamiento](https://github.com/Brian13b/MM_Entrenamiento)
+> *PWA | Gestión Deportiva | UI/UX*
+
+Aplicación progresiva para la gestión de turnos, control de asistencia y retención de alumnos en un centro de entrenamiento.
+- **Stack:** React, Vite, Tailwind CSS.
+- **Features:** Interfaz fluida, notificaciones push (toast), diseño responsivo avanzado y control de cancelaciones/asistencias en tiempo real.
+
+### 📦 [Expreso DaniPak - Sistema de Gestión Logística](https://github.com/GB-Soluciones-Digitales/sistema_gestion_logistica_danipak)
+> *Logística y Encomiendas | PWA | Sincronización Background*
+
+Sistema híbrido offline-first para la gestión de encomiendas, paquetería y cuentas corrientes de clientes.
+- **Stack:** FastAPI (Backend) + React (Frontend).
+- **Features:** Caching local local, generación de recibos en PDF, exportación de reportes a Excel y sincronización de datos en segundo plano.
+
 ### 🚛 [Sistema Logístico - Plataforma Integral](https://github.com/Brian13b/SistemaLogistico)
 > *Microservicios | Gestión de Flotas | Facturación*
 
-Este es mi proyecto más ambicioso hasta la fecha: una plataforma robusta diseñada para resolver la problemática compleja de la logística de transporte. Permite la gestión completa de flotas, viajes, facturación y rastreo en tiempo real.
-
-* **Arquitectura:** Sistema distribuido basado en **Microservicios** para alta escalabilidad.
-* **Backend:** Potenciado por **FastAPI** y **PostgreSQL**.
-* **Features:** Autenticación segura, notificaciones en tiempo real y dashboards de seguimiento.
+Una plataforma robusta diseñada para resolver la problemática compleja de la logística de transporte. Permite la gestión completa de flotas, viajes, facturación electrónica (ARCA/AFIP) y rastreo en tiempo real.
+- **Arquitectura:** Sistema distribuido basado en **Microservicios** para alta escalabilidad con Docker.
+- **Backend:** Potenciado por **FastAPI** y **PostgreSQL**.
+- **Features:** Autenticación segura, notificaciones y dashboards de seguimiento.
 
 ### 🏀 [Quico Basquet](https://github.com/Brian13b/QuicoBasquetProject)
 > *Fullstack | Reservas Deportivas | Interactivo*
 
 Aplicación moderna para la gestión y reserva de canchas deportivas. Soluciona la organización de turnos mediante un calendario interactivo.
-
-* **Stack:** FastAPI (Backend) + React (Frontend).
-* **Datos:** PostgreSQL + SQLAlchemy ORM.
-* **Cloud:** Autenticación con Firebase y despliegue continuo en **Vercel**.
-* **🔗 Live Demo:** [quicobasquet.vercel.app](https://quicobasquet.vercel.app/)
-
-### 🛒 [API Gestión de Clientes/Pedidos](https://github.com/Brian13b/SistemaGestionClientesPedidosAPI)
-> *Backend Corporativo | Clean Architecture*
-
-API REST diseñada bajo estándares empresariales para la gestión eficiente de clientes y pedidos.
-
-* **Tecnología:** C# .NET Core.
-* **Diseño:** Arquitectura en capas y patrón **Repository** para un código mantenible y testearle.
-* **Extras:** Documentación automática con **Swagger** e implementación de Entity Framework.
-
-### 🌍 [Charity Landing Page](https://github.com/Brian13b/charity-landing-page)
-> *Frontend | UI/UX | Impacto Social*
-
-Desarrollo de una interfaz moderna y responsiva para una organización sin fines de lucro. El foco estuvo en la experiencia de usuario (UX) para maximizar la conversión de donaciones.
-
-* **Stack:** React + TailwindCSS.
+- **Stack:** FastAPI (Backend) + React (Frontend).
+- **Datos:** PostgreSQL + SQLAlchemy ORM.
+- **Cloud:** Autenticación con Firebase y despliegue continuo en **Vercel**.
 
 ---
 
@@ -108,4 +117,3 @@ Desarrollo de una interfaz moderna y responsiva para una organización sin fines
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brian13b" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brian13b" height="150" alt="languages graph" />
 </div>
-
